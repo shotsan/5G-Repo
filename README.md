@@ -1,7 +1,22 @@
-# Extensive information on 5G Networks. A curated version of [awesome-telco](https://github.com/herlesupreeth/awesome-telco).
+# Extensive information on Open 5G Networks.
+
+- [Open Access Research Facilites](#OpenTestbeds)
+
+## OpenTestbeds
+- [PAWR](https://advancedwireless.org/about-pawr/) - The US government effort that revolutionized the public access to advanced wireless projects.                     One can run several over-the-air experiments, collect data and modify source code of 5G -- Sky is the limit!
+- [POWDER Utah](https://powderwireless.net/) - Amazing open access testbed, always up and running, great people supporting the project. Remotely run any 5G experiment. 
+- [COSMOS](https://www.cosmos-lab.org/) - Great place to run full-duplex wireless experiments. Again great support staff, amazing resources to launch remote experiments.
+-[Aerpaw](https://aerpaw.org/) - Access to study fixed and aerial experiments.
+
+All the above open access testbeds are absolutely amazing. One can launch any 4G/5G experiment remotely. Brilliant staff to support experiments. Always fun!
+Please refer to each testbed's webpage to learn more on how to use them.
+
+
+Below links help to learn more about all the elements of a 5G network. Right from flashing a SIM cards to some mailing lists.
+For a beginner this is a lot of information and largely ambigous. If you it difficult to navigate or want a clean learning path, please feel free to
+email me shotsan@pm.me, happy to help.
 
 ## Contents
-- [Open Access Research Facilites](#OpenTestbeds)
 - [SIM: USIM, SIM, eSIM](#SIMCards)
 - [UE: phones, modems apps](#UE)
 - [RAN: 5G](#RAN)
@@ -17,11 +32,6 @@
 - [Docs: Documentations and standards](#Docs)
 - [Mailings-lists : ML, slack and other forums](#Mailing-lists)
 
-## OpenTestbeds
-- [PAWR](https://advancedwireless.org/about-pawr/)
-- [POWDER Utah](https://powderwireless.net/)
-- [COSMOS](https://www.cosmos-lab.org/)
--[Aerpaw](https://aerpaw.org/)
 
 ## SIMCards
 
@@ -63,7 +73,7 @@
 - [XGoldmon](https://github.com/2b-as/xgoldmon) - xgoldmon is a small tool to convert the messages output by the USB logging mode of phones with Intel/Infineon XGold baseband processor.
 - [Modmobmap](https://github.com/Synacktiv-contrib/Modmobmap)  - Modmobmap is a python tool aimed to retrieve information of cellular networks, targeting Xgold baseband process.
 
-## RAN
+
 
 ### RRH
 
@@ -308,3 +318,5 @@
 ## License
 
 [MIT](LICENSE) DWYW
+
+A curated version of [awesome-telco](https://github.com/herlesupreeth/awesome-telco).
