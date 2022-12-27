@@ -6,7 +6,7 @@
 - [PAWR](https://advancedwireless.org/about-pawr/) - The US government effort that revolutionized the public access to advanced wireless projects.                     One can run several over-the-air experiments, collect data and modify source code of 5G -- Sky is the limit!
 - [POWDER Utah](https://powderwireless.net/) - Amazing open access testbed, always up and running, great people supporting the project. Remotely run any 5G experiment. 
 - [COSMOS](https://www.cosmos-lab.org/) - Great place to run full-duplex wireless experiments. Again great support staff, amazing resources to launch remote experiments.
--[Aerpaw](https://aerpaw.org/) - Access to study fixed and aerial experiments.
+- [Aerpaw](https://aerpaw.org/) - Access to study fixed and aerial experiments.
 
 All the above open access testbeds are absolutely amazing. One can launch any 4G/5G experiment remotely. Brilliant staff to support experiments. Always fun!
 Please refer to each testbed's webpage to learn more on how to use them.
