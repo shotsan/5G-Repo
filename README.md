@@ -1,7 +1,7 @@
-# curted version of [awesome-telco](https://github.com/herlesupreeth/awesome-telco) limiting tools to 5G only.
+# Extensive information on 5G Networks. A curated version of [awesome-telco](https://github.com/herlesupreeth/awesome-telco).
 
 ## Contents
-- [Open Access Research Facilites] (#Open Testbeds)
+- [Open Access Research Facilites](#OpenTestbeds)
 - [SIM: USIM, SIM, eSIM](#SIMCards)
 - [UE: phones, modems apps](#UE)
 - [RAN: 5G](#RAN)
@@ -17,7 +17,7 @@
 - [Docs: Documentations and standards](#Docs)
 - [Mailings-lists : ML, slack and other forums](#Mailing-lists)
 
-## Open Testbeds
+## OpenTestbeds
 - [PAWR](https://advancedwireless.org/about-pawr/)
 - [POWDER Utah](https://powderwireless.net/)
 - [COSMOS](https://www.cosmos-lab.org/)
@@ -43,7 +43,7 @@
 
 ## UE
 
-### 4G
+### 4G (for NSA)
 
 - [srsUE](https://github.com/srslte/srslte) - UE 4G modem part of the srsLTE project.
 - [srsUE PR external NAS](https://github.com/srsLTE/srsLTE/pull/474) - a PR for srsLTE for external NAS message injection. 
