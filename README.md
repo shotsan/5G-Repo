@@ -1,6 +1,7 @@
 # Extensive information on Open 5G Networks.
+![Hits](https://img.shields.io/github/search/shotsan/5G-repo/5g)
 
-- [Open Access Research Facilites](#OpenTestbeds)
+# [Open Access Wireless Research Facilites](#OpenTestbeds)
 
 ## OpenTestbeds
 - [PAWR](https://advancedwireless.org/about-pawr/) - The US government effort that revolutionized the public access to advanced wireless projects.                     One can run several over-the-air experiments, collect data and modify source code of 5G -- Sky is the limit!
