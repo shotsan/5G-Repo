@@ -151,7 +151,7 @@
 - [PySCTP](https://github.com/P1sec/pysctp) - PySCTP - SCTP bindings for Python.
 - [MTS: Multiprotocol Test Tool](https://github.com/ericsson-mts/mts) - MTS (Multi-protocol Test Suite) is a multi-protocol testing tool specially designed for telecom IP-based architectures (see above "Features" section for more details).
 
-### VoWiFi/VoLTE
+### VoWiFi
 
 - [SWu-IKEv2](https://github.com/sysmocom/SWu-IKEv2) - This is a SWu client emulator done in python3 that establishes an IKEv2/IPSec tunnel with an ePDG. This application implements not only the control plane of SWu (IKEv2) but also the user plane (IPSec).
 
@@ -307,4 +307,4 @@
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) DWYW
