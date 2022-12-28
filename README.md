@@ -1,4 +1,4 @@
-# Extensive information on Open 5G Networks.
+# Extensive Information on 5G Networks.
 ![](https://img.shields.io/github/last-commit/shotsan/5G-Repo)
 
 # [Open Access Wireless Research Facilites](#OpenTestbeds)
