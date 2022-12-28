@@ -1,5 +1,5 @@
 # Extensive information on Open 5G Networks.
-![Hits](https://img.shields.io/github/search/shotsan/5G-repo/5g)
+![](https://img.shields.io/github/last-commit/shotsan/5G-Repo)
 
 # [Open Access Wireless Research Facilites](#OpenTestbeds)
 
